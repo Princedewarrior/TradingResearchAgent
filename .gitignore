@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*/__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/*.db
+data/*.sqlite
+data/*.sqlite-*
+data/*.lock
+data/*.pid
+*.log
+.agents/
+.claude/
